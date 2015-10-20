@@ -1,0 +1,30 @@
+#cuerpo{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+#imgConectado{
+    margin:0;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.datos{
+    font-size:30px;
+}
+
+.barra{
+    text-align:center;
+}
+.barra img{
+    width:50%;
+}
+.barra span{
+float:left;}
+.barra span:hover{
+    color:#34a853;
+}
+.logro img{
+    height:50px;
+    width:50px;
+}
